@@ -46,8 +46,8 @@ except:
         # DATABASE_URL = "dbname=tortk user=postgres password=your-pass host=db port=5432"
 
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
+        MEGA_ENABLE = True
+        MEGA_API = "JcpwACyT"
         MEGA_UNAME = None
         MEGA_PASS = None
 
